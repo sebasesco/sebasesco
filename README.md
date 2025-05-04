@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @sebasesco
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently a computer science student
-- 📫 How to reach me: sebastian.03escobar@gmail.com
+Hi there! I'm **Sebastian Escobar**, a full-stack developer with a passion for building scalable, user-focused web applications. I'm currently pursuing my Master's in Computer Science at Georgia Tech, specializing in Machine Learning.
+
+I love building full-stack apps, tackling algorithmic challenges, and diving into data.
+
+On a mission to bridge software engineering with intelligent systems — and have fun while doing it.
+
 
 <!---
 sebasesco/sebasesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
